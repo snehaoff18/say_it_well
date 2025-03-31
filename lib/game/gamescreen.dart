@@ -201,7 +201,7 @@ class _GameScreenState extends State<GameScreen> {
             if (showSpeakingPrompt)
               const Text(
                 "You can start speaking...",
-                style: TextStyle(fontSize: 20, color: Colors.blue),
+                style: TextStyle(fontSize: 20, color: Colors.white),
               ),
 
             Text(
