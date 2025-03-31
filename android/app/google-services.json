@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86597998131",
+    "project_id": "sayitwellfirebase-7b53f",
+    "storage_bucket": "sayitwellfirebase-7b53f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86597998131:android:87cd580ef6587338ce7546",
+        "android_client_info": {
+          "package_name": "com.example.say_it_well"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsjz9vyn10jYSiRgyPEdxPd-_v913UP9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

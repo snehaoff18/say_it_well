@@ -1,0 +1,1 @@
+ E:\\flutter_projects\\say_it_well\\.dart_tool\\flutter_build\\275b6b86d3d923856ba3b7b539e23fc1\\native_assets.json: 
